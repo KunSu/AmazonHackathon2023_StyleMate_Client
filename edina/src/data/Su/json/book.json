@@ -3,21 +3,22 @@
         "title": "中国广州漆画艺术展",
         "href": "https://suxing.artron.net/book_pubinfo_97411",
         "img": "2011012012044594309.jpg",
-        "public": "-",
-        "other": [
-            "所属类别：综合美术",
-            "定　　价：0.00"
-        ]
+        "public": "广州市美术家协会",
+        "price": "0.00",
+        "type": "综合美术",
+        "currency_unit": "RMB",
+        "other": []
     },
     {
         "title": "磨砺出精彩——苏星漆画作品选",
         "href": "https://suxing.artron.net/book_pubinfo_97409",
         "img": "2011012012052092471.jpg",
-        "public": "社",
+        "public": "广州市美术家协会",
+        "price": "20.00",
+        "type": "综合美术",
+        "currency_unit": "RMB",
         "other": [
             "印　　次：2009年8月第一次印刷",
-            "所属类别：综合美术",
-            "定　　价：20.00",
             "I S B N：978—99937—49—35—6"
         ]
     },
@@ -25,11 +26,12 @@
         "title": "磨砺出精彩•苏星漆画作品集",
         "href": "https://suxing.artron.net/book_pubinfo_97410",
         "img": "2011012012054324836.jpg",
-        "public": "馆",
+        "public": "广州市美术家协会",
+        "price": "0.00",
+        "type": "综合美术",
+        "currency_unit": "RMB",
         "other": [
             "印　　次：2007年1月第一次印刷",
-            "所属类别：综合美术",
-            "定　　价：0.00",
             "I S B N：978-99937-49-35-6"
         ]
     },
@@ -37,11 +39,12 @@
         "title": "开天辟地·神仙卷作品集",
         "href": "https://suxing.artron.net/book_pubinfo_98549",
         "img": "2011040612075837171.jpg",
-        "public": "社",
+        "public": "广州市美术家协会",
+        "price": "0.00",
+        "type": "文博专题",
+        "currency_unit": "RMB",
         "other": [
             "开　　本：787*1092",
-            "所属类别：文博专题",
-            "定　　价：0.00",
             "I S B N：978-988-18123-9-1"
         ]
     }
