@@ -9,7 +9,44 @@
         "Workshop size": "15 Students",
         "Location": "Cleveland, Ohio",
         "details": "This two workshop location will be in the beautiful Cleveland Ohio. As a nationally recognized and award-winning artist, with life time artist and have many years teaching experience. I am happy, enjoy and love to share my knowledge and experience to my students. My workshop is created for all skill levels, beginners and professional painters are welcome. I will teaching with oil and also who working in acrylic and watercolor are welcome to the workshop. I will I have set enough time for me to work with each individual students to share ideas, suggestions and comments about the students paintings. I will have daily lecture and demonstration showing how to use my three simple step in the limited time to finished a painting from beginning to end. In my workshop students will learn: *Composition – design and edit to build up a strong, interesting and more effective composition *Color – simple and better way understand and use warm and cool color and color harmony *Value – differentiate between value, use big contrast of white, gray, black *Shape – use different size shape and develop drawing skills *Edge – distance and atmosphere in a painting of command between hardness and softness contrast of the edge *Brushstroke and texture – different subject matter requires different direction brushstroke and texture *Focal point – use the line to lead eye path to the focal point *Simplify – to use big and simple of color, value, shape to develop the basic of frame painting",
-        "pic": "[{'imgName':_'Paintout1.jpg',_'content': ''}, {'imgName': 'LagunaCoast.jpg', 'content': 'Laguna Coast 12x16 Oil on Canvas Panel;Finalist for Raymarart\\'s 2008 yearlong national fine art competition Judge\\'s Comments: \"I love the interpretation of this subject. It has been often done but this one sits in the atmosphere and has a lovely composition, really leading into deep space. My only comment is, that I almost passed it up because the red orange rocks in the front are so strong that they have a tendency to dominate and interupt the subtlety of the background, however it is a lovely and harmonic mood and deserving of consideration.\" Judge - Gil Dellinger'}, {'imgName': 'BalboaMiniMarket.jpg', 'content': 'Balboa Mini Market 12x16 Oil on Canvas Panel;Finalist for Raymarart\\'s 2007 yearlong national fine art competition Judge\\'s Comments: \"Planned spontaneity and fresh execution came to mind when I viewed this piece. The directional leads into the painting, believable colors of the atmosphere, water, boats, distant land fall, and the structure plus the balanced light and shadow are all in harmony. The accents that kept me looking and looking are...the blue broken water that evolves to green, the light color on the side of the building, the white sail\\'s angle, the blue writing on the banner over the railing, the red flag and electrical lines became the WOW accent elements for me. Beyond merely viewing this captured moment I could hear, sniff, taste and feel this scene which made it a winner for me. AWESOME.\" Judge - Cathy Dietrich'}, {'imgName': 'heislerpark1.jpg', 'content': ''}, {'imgName': 'heislerpark2.jpg', 'content': ''}, {'imgName': 'Balboaisland2.jpg', 'content': ''}, {'imgName': 'Balboaisland1.jpg', 'content': ''}, {'imgName': 'Workshop1.jpg', 'content': 'Demonstration at workshop  in Laguna Beach, California'}, {'imgName': 'Workshop3.jpg', 'content': 'Teaching at workshop  in Laguna Beach, California'}]",
+        "pic": [
+            {
+                "imgName": "Paintout1.jpg",
+                "content": ""
+            },
+            {
+                "imgName": "LagunaCoast.jpg",
+                "content": "Laguna Coast 12x16 Oil on Canvas Panel;Finalist for Raymarart's 2008 yearlong national fine art competition Judge's Comments: \"I love the interpretation of this subject. It has been often done but this one sits in the atmosphere and has a lovely composition, really leading into deep space. My only comment is, that I almost passed it up because the red orange rocks in the front are so strong that they have a tendency to dominate and interupt the subtlety of the background, however it is a lovely and harmonic mood and deserving of consideration.\" Judge - Gil Dellinger"
+            },
+            {
+                "imgName": "BalboaMiniMarket.jpg",
+                "content": "Balboa Mini Market 12x16 Oil on Canvas Panel;Finalist for Raymarart's 2007 yearlong national fine art competition Judge's Comments: \"Planned spontaneity and fresh execution came to mind when I viewed this piece. The directional leads into the painting, believable colors of the atmosphere, water, boats, distant land fall, and the structure plus the balanced light and shadow are all in harmony. The accents that kept me looking and looking are...the blue broken water that evolves to green, the light color on the side of the building, the white sail's angle, the blue writing on the banner over the railing, the red flag and electrical lines became the WOW accent elements for me. Beyond merely viewing this captured moment I could hear, sniff, taste and feel this scene which made it a winner for me. AWESOME.\" Judge - Cathy Dietrich"
+            },
+            {
+                "imgName": "heislerpark1.jpg",
+                "content": ""
+            },
+            {
+                "imgName": "heislerpark2.jpg",
+                "content": ""
+            },
+            {
+                "imgName": "Balboaisland2.jpg",
+                "content": ""
+            },
+            {
+                "imgName": "Balboaisland1.jpg",
+                "content": ""
+            },
+            {
+                "imgName": "Workshop1.jpg",
+                "content": "Demonstration at workshop  in Laguna Beach, California"
+            },
+            {
+                "imgName": "Workshop3.jpg",
+                "content": "Teaching at workshop  in Laguna Beach, California"
+            }
+        ],
         "comments": [
             {
                 "name": "J.K",
